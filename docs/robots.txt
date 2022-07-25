@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://xanne3d.github.io/sitemap.xml
