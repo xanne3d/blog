@@ -5,7 +5,7 @@
     <link>http://www.xanne3d.xyz/</link>
     <description>Recent content on Xanne3d Writings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.xanne3d.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facination with material microscopic view: fabrics</title>
@@ -13,7 +13,17 @@
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.xanne3d.xyz/post/microscopic-view-fabric/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this article, I experimentented with a low-cost microscope and took some images of 3 different types of paper matierals:&lt;/p&gt;
+&lt;p&gt;I used the microscope on printed paper with ink, paper with pencil lead drawn on it, and a work book with ink printed on it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.xanne3d.xyz/about/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/about/</guid>
+      <description>about</description>
     </item>
     
     <item>
@@ -27,40 +37,22 @@
     
     <item>
       <title>Can part-time jobs be beneficial for high school students?</title>
-      <link>http://www.xanne3d.xyz/post/highschool-partime-jobs/</link>
+      <link>http://www.xanne3d.xyz/post/highschool-partitme-jobs/highschool-partime-jobs/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xanne3d.xyz/post/highschool-partime-jobs/</guid>
+      <guid>http://www.xanne3d.xyz/post/highschool-partitme-jobs/highschool-partime-jobs/</guid>
       <description>&lt;p&gt;Here is my opinon on whether it can be a good idea for high school students to have a part-time job.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Welcome!</title>
-      <link>http://www.xanne3d.xyz/post/hello-world/</link>
+      <link>http://www.xanne3d.xyz/post/welcome/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xanne3d.xyz/post/hello-world/</guid>
+      <guid>http://www.xanne3d.xyz/post/welcome/</guid>
       <description>&lt;p&gt;Hi. 
 Welcome to my blog. My name is Roxanne but I also go by the nickname Xanne3d. I created this blog to practice my writing skills. Here I like to write about my 3D printing projects, storys, book reviews, and more. I am also a middle school student so please don&amp;rsquo;t epect me to hae the best writing skills. Outside my blog work, I have a YouTube channel were there are post about my robotic projects&lt;/p&gt;
 &lt;p&gt;Xanne3D&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://www.xanne3d.xyz/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.xanne3d.xyz/about/</guid>
-      <description>about</description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>http://www.xanne3d.xyz/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.xanne3d.xyz/archives/</guid>
-      <description>archives</description>
     </item>
     
   </channel>

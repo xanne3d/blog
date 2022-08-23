@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xanne3d Writings</title>
+    <link>http://www.xanne3d.xyz/tags/</link>
+    <description>Recent content in Tags on Xanne3d Writings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.xanne3d.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>science</title>
+      <link>http://www.xanne3d.xyz/tags/science/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Reviews</title>
+      <link>http://www.xanne3d.xyz/tags/book-reviews/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/book-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html elements</title>
+      <link>http://www.xanne3d.xyz/tags/html-elements/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://www.xanne3d.xyz/tags/markdown/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>http://www.xanne3d.xyz/tags/writing/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
