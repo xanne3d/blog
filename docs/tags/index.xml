@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Xanne3d Writings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.xanne3d.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.xanne3d.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>photography</title>
+      <link>http://www.xanne3d.xyz/tags/photography/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tourist</title>
+      <link>http://www.xanne3d.xyz/tags/tourist/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/tourist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>http://www.xanne3d.xyz/tags/writing/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver</title>
+      <link>http://www.xanne3d.xyz/tags/vancouver/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xanne3d.xyz/tags/vancouver/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>science</title>
       <link>http://www.xanne3d.xyz/tags/science/</link>
@@ -40,15 +76,6 @@
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.xanne3d.xyz/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>http://www.xanne3d.xyz/tags/writing/</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.xanne3d.xyz/tags/writing/</guid>
       <description></description>
     </item>
     
